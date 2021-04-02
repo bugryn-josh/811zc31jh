@@ -1,3 +1,4 @@
+def func (){
 $.ajax({
     type: 'GET',
     url: 'http://csec380-core.csec.rit.edu:86/home.php',
@@ -19,3 +20,4 @@ $.ajax({
             });
     }
 });
+}
